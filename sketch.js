@@ -102,7 +102,7 @@ function draw() {
     text("c",338,500);
     text("a",372,500);
     text("l",407,500);
-    
+    textSize(16);
   }
   
   //related to the switch case to switch between modes
